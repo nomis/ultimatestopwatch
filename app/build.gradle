@@ -4,7 +4,7 @@ android {
     compileSdkVersion 32
 
     defaultConfig {
-        applicationId "com.geekyouup.android.ustopwatch"
+        applicationId "uk.me.sa.com.geekyouup.android.ustopwatch"
         minSdkVersion 14
         targetSdkVersion 32
         versionCode 55
